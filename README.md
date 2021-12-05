@@ -1,5 +1,5 @@
 # TANCB
-Tree augmented naive Bayes Classifier
+## Tree augmented naive Bayes Classifier
 
 Classification is the problem of categorizing unseen examples into predefined classes based on a set of training examples. The learning algorithm generates a model from a complete set of independent instances and their corresponding categories; the model is then used to predict the categories of novel instances. 
 
