@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"classifier"},{"l":"graph"},{"l":"main"},{"l":"metrics"},{"l":"score"},{"l":"spanningTree"},{"l":"tree"}]
